@@ -19,7 +19,8 @@
   - Flexible shader and resource management  
   - Dynamic scene rendering  
   - Demonstrates best practices in modern graphics programming
-
+- 🛠️ [**PyMagicBox**](https://github.com/VerdantE1/PyMagicBox):
+  - Tools generating bat for windows used python to boost productivity.
 ### Hobbies & Topics I Enjoy
 
 - 🎮 Interested in all aspects of graphics programming and game development, from engine architecture to gameplay systems and visual effects.
