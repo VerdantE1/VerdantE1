@@ -26,12 +26,12 @@
 - 🎮 Interested in all aspects of graphics programming and game development, from engine architecture to gameplay systems and visual effects.
 - 🕹️ Enjoy a wide variety of games, especially strategy games (Paradox Interactive titles, The Elder Scrolls series, Bethesda games, etc.).
 - 🌐 Also active in online games, such as League of Legends (Diamond I rank) and The Elder Scrolls Online (ESO:OL).
-- 💬 Passionate about discussing C++, mathematics, abstraction, and all kinds of game-related topics.
+- 💬 Passionate about discussing C++, coding and design pattern, mathematics, abstraction, and all kinds of game-related topics.
 - 🌌 Curious about the intersection of AI, neuroscience, and interactive digital experiences.
 
 ### Contact
 
-- 📫 Email: buzzligh.frank@qq.com
+- 📫 Email: buzzlight.frank@qq.com
 
 ---
 
@@ -67,7 +67,7 @@
 
 ### 联系方式
 
-- 📫 邮箱：buzzligh.frank@qq.com
+- 📫 邮箱：buzzlight.frank@qq.com
 
 ---
 
